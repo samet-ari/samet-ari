@@ -2,7 +2,8 @@
 
 # 👋 Bonjour, je suis **Samet ARI**
 
-Je suis **ingénieur en test logiciel** avec une expertise en **tests manuels et tests automatisés**, **Java, Robot Framework**, et **qualité logicielle**. Je suis passionné par l'amélioration continue des systèmes et par l'innovation dans le domaine des tests.
+Je suis **Testeur logiciel** avec une expertise en **tests manuels et tests automatisés**, **Java, Python, Robot Framework**, et **qualité logicielle**. 
+Je suis passionné par l'amélioration continue des systèmes et par l'innovation dans le domaine des tests.
 
 ---
 
