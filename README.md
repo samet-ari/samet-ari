@@ -46,7 +46,7 @@ Passionate about continuous system improvement and testing innovation, I strive 
 ---
 
 ## 🌐 Find Me Online
-- **LinkedIn** : [Profil LinkedIn](https://linkedin.com/in/samet-ari)  
+- **LinkedIn** : [https://www.linkedin.com/in/sametarı]
 
 
 ---
