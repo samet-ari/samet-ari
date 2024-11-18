@@ -8,6 +8,8 @@ Je suis passionné par l'amélioration continue des systèmes et par l'innovatio
 
 ## 🚀 Compétences techniques
 ![Static Badge](https://img.shields.io/badge/code-Java-red?style=plastic)
+![Static Badge](https://img.shields.io/badge/code-Python-blue?style=plastic)
+
 - **Langages** : Java, Python, SQL,   
 - **Outils de test** : Selenium, Robot Framework, Postman  
 - **Gestion de versions** : Git, GitLab  
