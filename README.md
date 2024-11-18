@@ -14,7 +14,9 @@ Je suis passionné par l'amélioration continue des systèmes et par l'innovatio
 
 
 - **Outils de test** : Selenium, Robot Framework, Postman  
-- **Gestion de versions** : Git, GitLab  
+- **Gestion de versions** : Git, GitLab
+- ![Static Badge](https://img.shields.io/badge/code-Git-blue?style=plastic&logo=Git&logoColor=orange)
+
 - **Autres** : Jenkins, CI/CD, Jira
 
 ---
