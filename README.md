@@ -34,9 +34,9 @@ Passionate about continuous system improvement and testing innovation, I strive 
 ---
 
 ## 🏆 Certifications and Achievements
-- 🥇 **ISTQB Foundation Level Certified**  
+- 🥇 **ISTQB Foundation Level Certified (CTFL)**  
 - 🎖️ **Postman Badge**  
-- 🚀 Contributions majeures à [Nom du projet open source](#).
+- 
 
 ---
 
@@ -51,5 +51,6 @@ Passionate about continuous system improvement and testing innovation, I strive 
 
 ---
 
-Merci de votre visite, au plaisir d'échanger avec vous ! 😊
+Thank you for visiting my profile! 😊 Let's connect and collaborate.
+
 
