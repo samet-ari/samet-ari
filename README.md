@@ -8,9 +8,9 @@ Passionate about continuous system improvement and testing innovation, I strive 
 
 ## 🚀 Technical Skills
 - **Langues** :
-![Static Badge](https://img.shields.io/badge/code-Java-red?style=plastic)
-![Static Badge](https://img.shields.io/badge/code-Python-blue?style=plastic&logo=Python&logoColor=yellow)
-![Static Badge](https://img.shields.io/badge/code-MySQL-orange?style=plastic&logo=MySQL&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Java-blue?style=plastic&logo=java&logoColor=blue&labelColor=black&link=https%3A%2F%2Fwww.java.com%2F)
+![Static Badge](https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/MySQL-orange?style=plastic&logo=MySQL&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/OS-Linux-black?style=plastic&logo=Linux&logoColor=black&labelColor=gri)
 
 
@@ -51,8 +51,10 @@ Passionate about continuous system improvement and testing innovation, I strive 
 ---
 
 ## 🏆 Certifications and Achievements
-- 🥇 **ISTQB Foundation Level Certified (CTFL)**  
-- 🎖️ **Postman Badge**  
+- 🥇 **ISTQB Foundation Level Certified (CTFL)**  ![Static Badge](https://img.shields.io/badge/CTFL-blue?style=for-the-badge&logo=CTFL&logoColor=blue&labelColor=black)
+
+- 🎖️ **Postman Badge**  ![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=orange&labelColor=black)
+
 
 
 ---
