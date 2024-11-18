@@ -1,8 +1,9 @@
 
-# 👋 Hi, I'm **Samet**
+# 👋 Hi, I'm **Samet!**
 
 I'm a Software Tester with expertise in manual and automated testing. 
 I'm passionate about continuous system improvement and testing innovation.
+You can find me https://img.icons8.com/color/48/000000/linkedin.png
 ---
 
 ## 🚀 Compétences techniques
