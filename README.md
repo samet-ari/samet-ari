@@ -15,8 +15,8 @@ Passionate about continuous system improvement and testing innovation, I strive 
 
 - **Testing Tools** : Selenium, Robot Framework, Postman  
 - **Version Control** :
-- ![Static Badge](https://img.shields.io/badge/code-Git-blue?style=plastic&logo=Git&logoColor=orange)
-- ![Static Badge](https://img.shields.io/badge/tools-Gitlab-blue?style=plastic&logo=Gitlab&logoColor=blue)
+ ![Static Badge](https://img.shields.io/badge/code-Git-blue?style=plastic&logo=Git&logoColor=orange)
+ ![Static Badge](https://img.shields.io/badge/tools-Gitlab-blue?style=plastic&logo=Gitlab&logoColor=blue)
 
 
 - **Other Tools** :
