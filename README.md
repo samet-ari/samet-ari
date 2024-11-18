@@ -9,6 +9,8 @@ Je suis passionné par l'amélioration continue des systèmes et par l'innovatio
 ## 🚀 Compétences techniques
 ![Static Badge](https://img.shields.io/badge/code-Java-red?style=plastic)
 ![Static Badge](https://img.shields.io/badge/code-Python-blue?style=plastic&logo=Python&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/code-MySQL-orange?style=plastic&logo=MySQL&logoColor=blue)
+
 
 
 - **Langages** : Java, Python, SQL,   
