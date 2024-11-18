@@ -27,9 +27,9 @@ Passionate about continuous system improvement and testing innovation, I strive 
 ---
 
 ## 🌟 Highlighted Projects
-- **[Nom du projet 1](#)** : Une courte description du projet, les technologies utilisées et les résultats obtenus.
-- **[Nom du projet 2](#)** : Description similaire.
-- **[Nom du projet 3](#)** : Description similaire.
+- **[Security for Everyone](#)** : Plateforme de sécurité qui surveille en continu les menaces cybernétiques.
+- **[Smartcardlink](#)** : Plateforme qui permet de gérer des cartes de visite numériques.
+
 
 ---
 
