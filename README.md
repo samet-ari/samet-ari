@@ -1,9 +1,8 @@
 
 # 👋 Hello, je suis **Samet ARI**
 
-Je suis **Testeur logiciel** avec une expertise en **tests manuels et tests automatisés**, **Java, Python, Robot Framework**, et **qualité logicielle**. 
-Je suis passionné par l'amélioration continue des systèmes et par l'innovation dans le domaine des tests.
-
+I'm a Software Tester with expertise in manual and automated testing, Java, Python, Robot Framework, and software quality. 
+I'm passionate about continuous system improvement and testing innovation.
 ---
 
 ## 🚀 Compétences techniques
