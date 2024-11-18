@@ -18,7 +18,8 @@ Je suis passionné par l'amélioration continue des systèmes et par l'innovatio
 - ![Static Badge](https://img.shields.io/badge/code-Git-blue?style=plastic&logo=Git&logoColor=orange)
 
 - **Autres** : Jenkins, CI/CD, Jira
-![Static Badge](https://img.shields.io/badge/code-Jira-blue?style=plastic&logo=Jira&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/tools-Jira-blue?style=plastic&logo=Jira&logoColor=blue)
+
 
 
 ---
