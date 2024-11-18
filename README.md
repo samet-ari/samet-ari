@@ -13,8 +13,10 @@ I'm passionate about continuous system improvement and testing innovation.
 
 
 - **Outils de test** : Selenium, Robot Framework, Postman  
-- **Gestion de versions** : Git, GitLab
+- **Gestion de versions** :
 - ![Static Badge](https://img.shields.io/badge/code-Git-blue?style=plastic&logo=Git&logoColor=orange)
+- ![Static Badge](https://img.shields.io/badge/tools-Gitlab-blue?style=plastic&logo=Gitlab&logoColor=blue)
+
 
 - **Autres** : Jenkins, CI/CD, Jira
 ![Static Badge](https://img.shields.io/badge/tools-Jira-blue?style=plastic&logo=Jira&logoColor=blue)
