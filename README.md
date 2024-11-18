@@ -32,6 +32,8 @@ Passionate about continuous system improvement and testing innovation, I strive 
 ![Static Badge](https://img.shields.io/badge/tools-Jenkins-blue?style=plastic&logo=Jenkins&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blue?style=social&logo=IntelliJ%20IDEA&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat-square&logo=VS%20Code&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/tools-Confluence-blue?style=plastic&logo=Confluence&logoColor=black&labelColor=white)
+
 
 
 
