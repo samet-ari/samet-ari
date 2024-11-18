@@ -1,5 +1,5 @@
 
-# 👋 Hello, je suis **Samet ARI**
+# 👋 Hello, I am **Samet ARI**
 
 I'm a Software Tester with expertise in manual and automated testing, Java, Python, Robot Framework, and software quality. 
 I'm passionate about continuous system improvement and testing innovation.
