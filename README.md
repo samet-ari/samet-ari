@@ -7,13 +7,21 @@ Passionate about continuous system improvement and testing innovation, I strive 
 ---
 
 ## 🚀 Technical Skills
+- **Langues** :
 ![Static Badge](https://img.shields.io/badge/code-Java-red?style=plastic)
 ![Static Badge](https://img.shields.io/badge/code-Python-blue?style=plastic&logo=Python&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/code-MySQL-orange?style=plastic&logo=MySQL&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/OS-Linux-black?style=plastic&logo=Linux&logoColor=black&labelColor=gri)
 
 
 
-- **Testing Tools** : Selenium, Robot Framework, Postman  
+
+- **Testing Tools** :
+ ![Static Badge](https://img.shields.io/badge/Selenium-green?style=plastic&logo=Selenium&logoColor=Green&labelColor=black)
+ ![Static Badge](https://img.shields.io/badge/Robot%20framework-black?style=plastic&logo=Robot%20framework&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/Postman-orange?style=plastic&logo=Postman&logoColor=Green&labelColor=black)
+
+
 - **Version Control** :
  ![Static Badge](https://img.shields.io/badge/code-Git-blue?style=plastic&logo=Git&logoColor=orange)
  ![Static Badge](https://img.shields.io/badge/tools-Gitlab-blue?style=plastic&logo=Gitlab&logoColor=blue)
@@ -22,6 +30,11 @@ Passionate about continuous system improvement and testing innovation, I strive 
 - **Other Tools** :
 ![Static Badge](https://img.shields.io/badge/tools-Jira-blue?style=plastic&logo=Jira&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/tools-Jenkins-blue?style=plastic&logo=Jenkins&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blue?style=social&logo=IntelliJ%20IDEA&logoColor=orange)
+![Static Badge](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat-square&logo=VS%20Code&logoColor=blue)
+
+
+
 
 
 
@@ -38,7 +51,7 @@ Passionate about continuous system improvement and testing innovation, I strive 
 ## 🏆 Certifications and Achievements
 - 🥇 **ISTQB Foundation Level Certified (CTFL)**  
 - 🎖️ **Postman Badge**  
-- 
+
 
 ---
 
