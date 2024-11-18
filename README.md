@@ -13,7 +13,6 @@ Je suis passionné par l'amélioration continue des systèmes et par l'innovatio
 
 
 
-- **Langages** : Java, Python, SQL,   
 - **Outils de test** : Selenium, Robot Framework, Postman  
 - **Gestion de versions** : Git, GitLab  
 - **Autres** : Jenkins, CI/CD, Jira
