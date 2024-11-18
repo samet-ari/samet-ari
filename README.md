@@ -19,8 +19,10 @@ Passionate about continuous system improvement and testing innovation, I strive 
 - ![Static Badge](https://img.shields.io/badge/tools-Gitlab-blue?style=plastic&logo=Gitlab&logoColor=blue)
 
 
-- **Other Tools** : Jenkins, CI/CD, Jira
+- **Other Tools** :
 ![Static Badge](https://img.shields.io/badge/tools-Jira-blue?style=plastic&logo=Jira&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/tools-Jenkins-blue?style=plastic&logo=Jenkins&logoColor=blue)
+
 
 
 
