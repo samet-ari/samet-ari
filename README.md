@@ -4,6 +4,7 @@ I'm a Software Tester with expertise in manual and automated testing.
 Passionate about continuous system improvement and testing innovation, I strive to deliver high-quality results in every project.
 
 
+
 ---
 
 ## 🚀 Technical Skills
