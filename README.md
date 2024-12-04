@@ -62,6 +62,7 @@ Passionate about continuous system improvement and testing innovation, I strive 
 
 ## 📊 GitHub Stats
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=SametAri&show_icons=true&theme=radical)
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
