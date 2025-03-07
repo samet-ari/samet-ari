@@ -1,9 +1,8 @@
 
 # 👋 Hi, I'm Samet!
-I'm a Software Tester with expertise in manual and automated testing.
-Passionate about continuous system improvement and testing innovation, I strive to deliver high-quality results in every project.
+Après 2 ans d'expérience en tant que testeur logiciel, j’ai décidé de transformer ma passion pour la cybersécurité en une véritable carrière. Mon esprit analytique et mon souci du détail, développés dans les processus de test, sont aujourd’hui des atouts précieux dans le domaine de la sécurité informatique.
 
-
+Actuellement, je travaille sur des projets en cybersécurité et je développe en permanence mes compétences en explorant les différentes facettes de la sécurité informatique. Ma curiosité et mon engagement me poussent à apprendre continuellement de nouvelles technologies afin de m’adapter aux évolutions du domaine et relever de nouveaux défis.
 
 ---
 
