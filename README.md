@@ -39,17 +39,6 @@ Ma curiosité et mon engagement me poussent à apprendre continuellement de nouv
 
 
 
-
-
-
-
----
-
-## 🌟 Highlighted Projects
-- **[Security for Everyone](#)** : Plateforme de sécurité qui surveille en continu les menaces cybernétiques.
-- **[Smartcardlink](#)** : Plateforme qui permet de gérer des cartes de visite numériques.
-
-
 ---
 
 ## 🏆 Certifications and Achievements
