@@ -56,7 +56,7 @@ Ma curiosité et mon engagement me poussent à apprendre continuellement de nouv
 ---
 
 ## 🌐 Find Me Online
-- **LinkedIn** : [https://www.linkedin.com/in/sametarı]
+- **LinkedIn** : [https://www.linkedin.com/in/samet-ari]
 
 
 ---
