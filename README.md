@@ -12,8 +12,7 @@ Ma curiosité et mon engagement me poussent à apprendre continuellement de nouv
 - **Langues** :
 ![Static Badge](https://img.shields.io/badge/Java-blue?style=plastic&logo=java&logoColor=blue&labelColor=black&link=https%3A%2F%2Fwww.java.com%2F)
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=yellow)
-![Static Badge](https://img.shields.io/badge/MySQL-orange?style=plastic&logo=MySQL&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/OS-Linux-black?style=plastic&logo=Linux&logoColor=black&labelColor=gri)
+
 
 
 
