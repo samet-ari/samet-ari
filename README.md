@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=200&section=header&text=Samet%20ARI&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=System%20%26%20Network%20Administrator%20%7C%20Cybersecurity%20%7C%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- Typing animation -->
+<!-- Typing animation - very reliable -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=System+%26+Network+Administrator+%F0%9F%96%A5%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Docker+%26+Linux+Lover+%F0%9F%90%B3;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&height=60&lines=System+%26+Network+Administrator+%F0%9F%96%A5%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Docker+%26+Linux+Lover+%F0%9F%90%B3;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samet--ari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samet-ari)
 [![GitHub](https://img.shields.io/badge/GitHub-samet--ari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samet-ari)
@@ -89,12 +86,12 @@ I build things, break things (intentionally), automate everything I can, and nev
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samet-ari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samet-ari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samet-ari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samet-ari&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=samet-ari&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=EC4899&currStreakLabel=7C3AED)
+<img src="https://streak-stats.demolab.com?user=samet-ari&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -131,22 +128,10 @@ I build things, break things (intentionally), automate everything I can, and nev
 
 ---
 
-<!-- Animated footer wave -->
 <div align="center">
 
 *Always building. Always learning. Always shipping.* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:4F46E5&height=120&section=footer&animation=fadeIn" width="100%"/>
-
 </div>
----
-
-## 🌐 Find Me Online
-- **LinkedIn** : [https://www.linkedin.com/in/samet-ari]
-
-
----
-
-Thank you for visiting my profile! 😊 Let's connect and collaborate.
 
 
