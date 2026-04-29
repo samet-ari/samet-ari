@@ -1,14 +1,10 @@
 <div align="center">
 
-# 👨‍💻 SAMET ARI
+# SAMET ARI
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&height=45&lines=System+%26+Network+Administrator+%F0%9F%96%A5%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Docker+%26+Linux+Lover+%F0%9F%90%B3;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&height=45&lines=System+%26+Network+Administrator;Cybersecurity+Enthusiast;Cloud+%26+DevOps+Explorer;Docker+%26+Linux+Specialist;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
-
-<br/>
-
-> 🇹🇷 Turkey &nbsp;→&nbsp; 🇺🇸 USA &nbsp;→&nbsp; 🇪🇪 Estonia &nbsp;→&nbsp; 🇫🇷 Marseille
 
 <br/>
 
