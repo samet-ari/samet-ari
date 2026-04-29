@@ -31,8 +31,6 @@ IT student with an **international background** — from project management, to 
 
 I build things, break things, automate everything I can, and never stop learning.
 
-> *"Three continents, several careers, one constant: technical curiosity."*
-
 ---
 
 ## 🛠️ Technical Skills
