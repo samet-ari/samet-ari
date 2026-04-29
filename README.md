@@ -1,17 +1,24 @@
 <div align="center">
 
-<!-- Typing animation - very reliable -->
+# 👨‍💻 SAMET ARI
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&height=60&lines=System+%26+Network+Administrator+%F0%9F%96%A5%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Docker+%26+Linux+Lover+%F0%9F%90%B3;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&height=45&lines=System+%26+Network+Administrator+%F0%9F%96%A5%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Docker+%26+Linux+Lover+%F0%9F%90%B3;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
+
+> 🇹🇷 Turkey &nbsp;→&nbsp; 🇺🇸 USA &nbsp;→&nbsp; 🇪🇪 Estonia &nbsp;→&nbsp; 🇫🇷 Marseille
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samet--ari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samet-ari)
 [![GitHub](https://img.shields.io/badge/GitHub-samet--ari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samet-ari)
 [![Email](https://img.shields.io/badge/Email-samet.ari%40laplateforme.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samet.ari@laplateforme.io)
 
-![Profile views](https://komarev.com/ghpvc/?username=samet-ari&color=7C3AED&style=flat-square&label=Profile+Views)
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=samet-ari&color=7C3AED&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -24,9 +31,9 @@ $ whoami
 > Samet ARI — IT Student @ La Plateforme_, Marseille 🇫🇷
 ```
 
-IT student with an **international background** — from project management in Turkey 🇹🇷, to software testing in the US 🇺🇸 and Estonia 🇪🇪, now fully focused on **system administration, cybersecurity and cloud infrastructure** in Marseille.
+IT student with an **international background** — from project management, to software testing now fully focused on **system administration, cybersecurity and cloud infrastructure** in Marseille.
 
-I build things, break things (intentionally), automate everything I can, and never stop learning.
+I build things, break things, automate everything I can, and never stop learning.
 
 > *"Three continents, several careers, one constant: technical curiosity."*
 
