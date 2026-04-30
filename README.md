@@ -2,8 +2,6 @@
 <img src="https://raw.githubusercontent.com/samet-ari/samet-ari/output/matrix-header.svg" width="100%"/>
 </div>
 
-# SAMET ARI
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&height=45&lines=System+%26+Network+Administrator;Cybersecurity+Enthusiast;Cloud+%26+DevOps+Explorer;Docker+%26+Linux+Specialist;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
