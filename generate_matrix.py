@@ -1,167 +1,78 @@
 import random
-import math
 
 WIDTH = 800
 HEIGHT = 200
-COLS = 40
-FONT_SIZE = 14
+COLS = 55
+FONT_SIZE = 13
 COL_WIDTH = WIDTH / COLS
-CHARS = "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン0123456789ABCDEF"
+CHARS = "アイウエオカキクケコサシスセソタチツテトナニヌネノ0123456789ABCDEF"
 
-random.seed(42)
+random.seed(99)
 
-drops = []
+lines = []
+lines.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">')
+lines.append(f'  <rect width="{WIDTH}" height="{HEIGHT}" fill="#0D1117"/>')
+
+# Generate matrix rain columns using CSS animations only
+lines.append('  <style>')
+lines.append('    .col { font-family: monospace; font-size: 13px; }')
+
+# Generate keyframes for each column
 for i in range(COLS):
-    drops.append({
-        "x": i * COL_WIDTH + COL_WIDTH / 2,
-        "delay": random.uniform(0, 3),
-        "speed": random.uniform(1.5, 3.5),
-        "length": random.randint(5, 15),
-        "chars": [random.choice(CHARS) for _ in range(20)]
-    })
+    delay = random.uniform(0, 4)
+    duration = random.uniform(2, 5)
+    lines.append(f'    @keyframes fall{i} {{ 0% {{ transform: translateY(-150px); opacity: 1; }} 100% {{ transform: translateY({HEIGHT + 50}px); opacity: 0; }} }}')
 
-svg_parts = []
-svg_parts.append(f'''<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
-    </style>
-    <clipPath id="clip">
-      <rect width="{WIDTH}" height="{HEIGHT}"/>
-    </clipPath>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <rect width="{WIDTH}" height="{HEIGHT}" fill="#0D1117"/>
-  <g clip-path="url(#clip)">''')
+lines.append('    .name-text { animation: pulse 2s ease-in-out infinite; }')
+lines.append('    @keyframes pulse { 0%,100% { opacity: 0.85; } 50% { opacity: 1; } }')
+lines.append('    .sub-text { animation: pulse2 2.5s ease-in-out infinite; }')
+lines.append('    @keyframes pulse2 { 0%,100% { opacity: 0.6; } 50% { opacity: 0.9; } }')
+lines.append('  </style>')
 
-for drop in drops:
-    x = drop["x"]
-    delay = drop["delay"]
-    speed = drop["speed"]
-    length = drop["length"]
-    chars = drop["chars"]
-    duration = speed
-    total_distance = HEIGHT + length * FONT_SIZE
+lines.append('  <clipPath id="clip"><rect width="{}" height="{}"/></clipPath>'.format(WIDTH, HEIGHT))
+lines.append('  <g clip-path="url(#clip)">')
+
+# Draw matrix columns
+for i in range(COLS):
+    x = i * COL_WIDTH + COL_WIDTH / 2
+    delay = round(random.uniform(0, 4), 2)
+    duration = round(random.uniform(2, 5), 2)
+    length = random.randint(4, 10)
 
     for j in range(length):
-        char = chars[j % len(chars)]
-        opacity_factor = (length - j) / length
+        char = random.choice(CHARS)
         if j == 0:
             color = "#FFFFFF"
             opacity = 1.0
-            blur = "filter=\"url(#glow)\""
         elif j < 3:
             color = "#00FF41"
-            opacity = round(0.9 - j * 0.1, 2)
-            blur = "filter=\"url(#glow)\""
+            opacity = round(0.85 - j * 0.1, 2)
         else:
             color = "#00AA2A"
-            opacity = round(opacity_factor * 0.7, 2)
-            blur = ""
+            opacity = round(0.5 - (j * 0.03), 2)
+            opacity = max(opacity, 0.1)
 
-        char_delay = delay
-        char_duration = duration + speed * 2
+        y_offset = j * FONT_SIZE
+        lines.append(f'    <text x="{x:.1f}" y="{y_offset}" text-anchor="middle" fill="{color}" opacity="{opacity}" style="font-family:monospace;font-size:{FONT_SIZE}px;animation:fall{i} {duration}s {delay}s linear infinite;">{char}</text>')
 
-        svg_parts.append(f'''
-    <text
-      x="{x}"
-      y="0"
-      font-family="'Share Tech Mono', monospace"
-      font-size="{FONT_SIZE}"
-      fill="{color}"
-      opacity="{opacity}"
-      text-anchor="middle"
-      {blur}
-    >
-      {char}
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="0 {-(j * FONT_SIZE)}"
-        to="0 {total_distance - (j * FONT_SIZE)}"
-        dur="{char_duration:.1f}s"
-        begin="{char_delay:.2f}s"
-        repeatCount="indefinite"
-      />
-      <animate
-        attributeName="opacity"
-        values="{opacity};{opacity};0"
-        keyTimes="0;0.85;1"
-        dur="{char_duration:.1f}s"
-        begin="{char_delay:.2f}s"
-        repeatCount="indefinite"
-      />
-    </text>''')
+lines.append('  </g>')
 
-# Overlay gradient for text readability
-svg_parts.append(f'''
-  </g>
-  <defs>
-    <linearGradient id="textBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-      <stop offset="40%" stop-color="#0D1117" stop-opacity="0.3"/>
-      <stop offset="60%" stop-color="#0D1117" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="{WIDTH}" height="{HEIGHT}" fill="url(#textBg)"/>''')
+# Dark overlay for readability
+lines.append(f'  <rect width="{WIDTH}" height="{HEIGHT}" fill="#0D1117" opacity="0.45"/>')
 
-# Main name text - SAMET ARI
-svg_parts.append(f'''
-  <text
-    x="{WIDTH/2}"
-    y="{HEIGHT/2 - 10}"
-    font-family="'Share Tech Mono', monospace"
-    font-size="42"
-    font-weight="bold"
-    fill="#7C3AED"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    filter="url(#glow)"
-    letter-spacing="8"
-  >
-    SAMET ARI
-    <animate
-      attributeName="opacity"
-      values="0.8;1;0.8"
-      dur="3s"
-      repeatCount="indefinite"
-    />
-  </text>''')
+# Centered name
+lines.append(f'  <text x="{WIDTH//2}" y="{HEIGHT//2 - 8}" text-anchor="middle" dominant-baseline="middle" fill="#A78BFA" font-family="monospace" font-size="44" font-weight="bold" letter-spacing="10" class="name-text">SAMET ARI</text>')
 
 # Subtitle
-svg_parts.append(f'''
-  <text
-    x="{WIDTH/2}"
-    y="{HEIGHT/2 + 35}"
-    font-family="'Share Tech Mono', monospace"
-    font-size="13"
-    fill="#00FF41"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    letter-spacing="3"
-    opacity="0.85"
-  >
-    SYSTEM &amp; NETWORK ADMINISTRATOR | CYBERSECURITY
-    <animate
-      attributeName="opacity"
-      values="0.6;0.9;0.6"
-      dur="2.5s"
-      begin="0.5s"
-      repeatCount="indefinite"
-    />
-  </text>
-</svg>''')
+lines.append(f'  <text x="{WIDTH//2}" y="{HEIGHT//2 + 32}" text-anchor="middle" dominant-baseline="middle" fill="#00FF41" font-family="monospace" font-size="12" letter-spacing="3" class="sub-text">SYSTEM &amp; NETWORK ADMINISTRATOR | CYBERSECURITY</text>')
 
-svg_content = "\n".join(svg_parts)
+lines.append('</svg>')
 
+svg = "\n".join(lines)
+
+import os
+os.makedirs("dist", exist_ok=True)
 with open("dist/matrix-header.svg", "w", encoding="utf-8") as f:
-    f.write(svg_content)
+    f.write(svg)
 
-print("matrix-header.svg generated successfully!")
+print("Done! matrix-header.svg generated.")
